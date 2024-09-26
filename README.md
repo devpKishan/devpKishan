@@ -3,7 +3,7 @@
 I'm a **Computer Science student** currently pursuing my Bachelor's degree from **Mumbai University**. I'm passionate about **coding**, **technology**, and working on **projects** that enhance my skills as a future **software developer**.
 
 ## 🚀 About Me
-- 🏫 Currently in my **second year** of Computer Science
+- 🏫 Currently in my **Third year** of Computer Science
 - 📚 Interested in **software development**, **coding**, and **trending technologies**
 - 💻 Focused on improving my coding skills and contributing to open-source projects
 - 🎯 Always on the lookout for opportunities to learn and grow in the tech world
